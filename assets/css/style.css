@@ -13,26 +13,26 @@ body{
     position: absolute;
     left: 300px;
     top: 70px;
-    font-size: 30px;
+    font-size: 47px;
     font-family: 'PT serif';
 }
 .desc_title{
     position: absolute;
-    left: 55em;
+    left: 46em;
     top: 80px;
     font-family: 'Poppins';
-    font-size: 18px;
+    font-size: 29px;
     text-transform: uppercase;
 }
 .description{
     position: absolute;
     width: 439px;
     height: 87px;
-    left: 55em;
-    top: 120px;
+    left: 58em;
+    top: 122px;
 
     font-family: 'Poppins';
-    font-size: 18px;
+    font-size: 23px;
 }
 .img1{
     position: absolute;
